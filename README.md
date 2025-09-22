@@ -107,7 +107,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-## 팀미션 1 (승우)
+## 팀미션 1 (20252410 정승우)
 
 **실현된 기술**
 - 태양열 집  
@@ -123,7 +123,7 @@ Syntax highlighted code block
 
 ---
 
-## 팀미션 2 (승우)
+## 팀미션 2 (20252410 승우)
 
 **실현된 기술**
 - 터치 디스플레이가 있는 자동차  
