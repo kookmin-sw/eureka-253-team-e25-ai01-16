@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
 # Welcome to 16팀
 <img width="4675" height="6619" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
+[16팀-유레카-발표 (최종).pdf](https://github.com/user-attachments/files/23250945/16.-.-.pdf)
 
 ## 1️⃣ 팀원 소개
 
