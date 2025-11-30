@@ -3,6 +3,7 @@
 <img width="4675" height="6619" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
 [16팀-유레카-발표 (최종).pdf](https://github.com/user-attachments/files/23250945/16.-.-.pdf)
 
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
@@ -37,7 +38,8 @@
 - 현장 탐방 ✔️  
 
 - 멘토링 ✔️  
-  - 내 지도 교수 함게 만나기
+  - 12주차 지도교수 팀 면담
+    
   - 대학원 방문 및 선배 만나기
 
 - 프로젝트 진행 ✔️  
