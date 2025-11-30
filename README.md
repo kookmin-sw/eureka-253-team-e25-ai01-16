@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
+![KakaoTalk_Photo_2025-11-30-21-15-25](https://github.com/user-attachments/assets/20d40513-e9dd-4ae4-9b27-299aadcc0638)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
 # Welcome to 16팀
 <img width="4675" height="6619" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
 [16팀-유레카-발표 (최종).pdf](https://github.com/user-attachments/files/23250945/16.-.-.pdf)
@@ -39,6 +39,7 @@
 
 - 멘토링 ✔️  
   - 12주차 지도교수 팀 면담
+![KakaoTalk_Photo_2025-11-30-21-15-25](https://github.com/user-attachments/assets/76f07da3-2e5e-4932-98c7-7fdf1a2987a2)
 1. 미래 사회와 기술 적용 가능성에 대한 교수님의 의견
    
       교수님은 팀이 제시한 2030~2040년대 미래 사회가 완전한 초연결 구조로 발전하기에는 여러 현실적 문제가 남아 있다고 지적하셨다. 보안 취약점, 사고 시 책임 소재, 기술 신뢰성 등 다양한 요소를 동시에 해결해야 하기 때문에, 자율주행 차량과 일반 차량이 상당 기간 공존할 것으로 보신다. 아울러 미국에서 이미 무인택시 서비스가 운영 중인 사례를 들며, 기술 자체는 빠르게 발전하고 있지만 국내 상용화를 위해서는 제도적 기반과 규제 정비가 선행되어야 한다고 강조하셨다.
@@ -49,7 +50,7 @@
 3. 기술 구현과 상용화의 차이에 대한 이해
    
       교수님은 기술 구현 가능성과 사회 전반의 실제 사용은 별개의 문제라고 다시 한번 강조하셨다. 기술의 완성도뿐 아니라 윤리적 문제, 법적 책임 구조, 안전성 확보 등이 함께 해결되어야 실생활에 적용될 수 있다는 점을 말씀하시며, 이 부분이 팀 프로젝트에서도 중요한 고려 사항이 될 것이라고 조언하셨다.
-   
+
 4. 팀 프로젝트에 활용 가능한 인사이트
       - 미래 기술 논의 시 기술적 가능성과 함께 사회적·제도적 측면을 고려해야 함
       - 자율주행·드론 기술의 경우 기술 발전 속도보다 규제와 운영 체계 정립이 더 중요함
