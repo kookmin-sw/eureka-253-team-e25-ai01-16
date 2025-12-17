@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
 # Welcome to 16팀
-<img width="600" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
+<img width="640" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
 
 
 ## 1️⃣ 팀원 소개
@@ -113,7 +113,7 @@
 
 ## 11주차 대학원 선배 만나기
 
-<img src="https://github.com/user-attachments/assets/8705357f-3cdf-44f0-a244-0c7bcbe9c2da" width="600"/>
+<img src="https://github.com/user-attachments/assets/8705357f-3cdf-44f0-a244-0c7bcbe9c2da" width="640"/>
 
     주요 질문 및 답변 정리
     1. 대학원 생활이 정말 힘든가요?
@@ -164,7 +164,7 @@
 
 ## **12주차 지도교수 팀 면담**
 
-<img src="https://github.com/user-attachments/assets/76f07da3-2e5e-4932-98c7-7fdf1a2987a2" width="600"/>
+<img src="https://github.com/user-attachments/assets/76f07da3-2e5e-4932-98c7-7fdf1a2987a2" width="640"/>
 
 1. **미래 사회와 기술 적용 가능성에 대한 교수님의 의견**
    
