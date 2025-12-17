@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
 # Welcome to 16팀
-<img width="4675" height="6619" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
+<img width="800" alt="16팀-유레카-발표 (2)-1" src="https://github.com/user-attachments/assets/f6ddb700-b905-4621-801a-631b711ff4c1" />
 [16팀-유레카-발표 (최종).pdf](https://github.com/user-attachments/files/23250945/16.-.-.pdf)
 
 
@@ -145,6 +145,7 @@
         - 인공지능 분야 취업 시 많은 기업이 석사 학위 이상을 선호하므로, 석사 과정 진학이 경쟁력 확보에 도움이 됨.
           
     5. 연구실 변경이 가능한가요?
+    
         - 연구 방향이 맞지 않을 경우, 합리적인 사유를 기반으로 연구실을 변경하는 것이 가능하며, 교수진이 이를 부정적으로 평가하지 않음.
        
 **대학원 연구생 생활**
