@@ -122,6 +122,8 @@
 - 멘토링 ✔️
 ## 11주차 대학원 선배 만나기
 
+<img src="[https://github.com/user-attachments/assets/76f07da3-2e5e-4932-98c7-7fdf1a2987a2](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-16/blob/main/11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A2-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%84%80%E1%85%B5-%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpg)" width="700"/>
+
     주요 질문 및 답변 정리
     1. 대학원 생활이 정말 힘든가요?
        
